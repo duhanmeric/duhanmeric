@@ -7,9 +7,6 @@
     <a href="http://duhanmeric.herokuapp.com/">
       <img src="https://img.shields.io/badge/-personal%20website-red?style=for-the-badge&logo=appveyor alt="Personal Website Badge"/>
     </a>
-    <a href="your-twitter-URL">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
   </div>  
   <img src="https://komarev.com/ghpvc/?username=duhanmeric&style=flat-square&color=blue" alt=""/>
 </div>
