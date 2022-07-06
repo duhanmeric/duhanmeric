@@ -17,7 +17,7 @@
 
 I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Full Stack Developer and contributing to frontend and backend for building web applications.
 
 - :seedling: I’m currently learning advanced React.
 
